@@ -1,2 +1,3 @@
-# hello-word
+# hello-wordhi 、
+hi  girl!
 a simple exercise！
